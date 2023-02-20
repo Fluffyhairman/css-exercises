@@ -1,0 +1,19 @@
+p{
+    background-color: rgb(242, 52, 11);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.el2{
+    color: #0BACF2;
+    font-size: 36px;
+}
+
+.el3{
+    font-size: 24px;
+}
+
+.el4{
+    background-color: hsl(151, 95%, 50%);
+    font-size: 24px;
+    font-weight: 700;
+}
